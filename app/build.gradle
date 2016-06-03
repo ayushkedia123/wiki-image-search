@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+
+    defaultConfig {
+        applicationId "com.ayush.wikisearch"
+        minSdkVersion 11
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('src/main/assets/wikisearch.jks')
+            storePassword "@yush123"
+            keyAlias "Ayush"
+            keyPassword "@yush123"
+        }
+    }
+
+    productFlavors {
+        dev {
+            applicationId "com.ayush.wikisearch.dev"
+            versionName "1.0-dev"
+        }
+        prod {
+            applicationId "com.ayush.wikisearch"
+            versionName "1.0"
+            versionCode 1
+        }
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+        }
+        release {
+            zipAlignEnabled true
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+    compile 'com.squareup.okhttp:okhttp:2.7.2'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+}

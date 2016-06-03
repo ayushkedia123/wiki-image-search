@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-support-v4-23.3.0_181469b0fa4c95e9a7b46e98ac737872f280a5c8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/incremental-classes/dev/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eb24641b4447835da542ae2169fd1590660fcf4e">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/instant-run-bootstrap_d37b582f8a73fad67d70fec6ffa9f0526533a393/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/internal_impl-23.3.0_691eea36684c796c0ff8e9ebe196cd92c78627ce/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/retrofit-1.9.0_8f7c80cb886037f5bf8707395340639a46eae428/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okio-1.6.0_583d27cdc4406de84ad7ab45d7d79a46339bc16f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/incremental-runtime-classes/dev/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f57661f76aee66ca769942e351d04a6d151bee5e">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/instant-run_4ddc3c64b5de409a2de547543ff43449ce92568c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/support-annotations-23.3.0_29a964556d5e640579e9d87ad2aa35c45dc1d100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.2/20f6463eb19ac61960c5d91a094c2f4f0727dc2e/okhttp-2.7.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/okhttp-2.7.2_c96b560a327e58377030f3cc0246b43f7ffcd5a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/glide-3.7.0_088d9837c13847b93dc94877fd4b05d59f724662/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_f691e6b88bf7571e72e84ec309059327354934c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e7f7357f21125af03900fcfda26271ba9e4dd36c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_1cc2d63e87b270fb0175cdc02adbbee1ceb9f237/classes.dex" />
+    </item>
+    <item
+        jar="/Users/ayushkedia/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/ayushkedia/bitbucket/WikiSearch/app/build/intermediates/transforms/dex/dev/debug/folders/1000/10/gson-2.3.1_b234252f6bdec02f9cc1e45d9ce46f970c2dabe9/classes.dex" />
+    </item>
+
+</items>

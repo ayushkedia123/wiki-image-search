@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl_search_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/light_green"
+        android:paddingBottom="16dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
+
+        <EditText
+            android:id="@+id/et_search"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/shape_edit_bg"
+            android:hint="@string/hint_search"
+            android:imeOptions="actionDone"
+            android:paddingLeft="10dp"
+            android:paddingRight="40dp"
+            android:singleLine="true"
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
+
+        <ImageButton
+            android:id="@+id/btn_searchCross"
+            style="@style/iconClickable"
+            android:layout_alignBottom="@+id/et_search"
+            android:layout_alignRight="@+id/et_search"
+            android:layout_alignTop="@+id/et_search"
+            android:src="@drawable/sel_search" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_search_tool_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl_search_box"
+        android:background="@color/bg_light">
+
+        <ListView
+            android:id="@+id/lv_suggestion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:dividerHeight="-1dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:layout_marginTop="-1dp"
+            android:background="@drawable/shape_gradient" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
